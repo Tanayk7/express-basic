@@ -1,0 +1,9 @@
+GET http://localhost:3000/
+###
+
+POST http://localhost:3000/data/
+Content-Type: application/json
+
+{
+    "post_date":"10/10/21"
+}
